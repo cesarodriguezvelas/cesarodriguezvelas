@@ -30,9 +30,22 @@ Git & GitHub
 AWS
 📌 Proyecto Destacado
 ❤️ App de Citas (tipo Tinder)
+------------------------------------------------------------------------------------------------------------
+
+## 📊 Mis estadísticas de GitHub
+
+<!-- Tarjeta de estadísticas principales -->
+![Estadísticas de cesarodriguezvelas](https://github-readme-stats.vercel.app/api?username=cesarodriguezvelas&show_icons=true&theme=radical&count_private=true)
+
+<!-- Tarjeta de lenguajes más usados -->
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarodriguezvelas&layout=compact&theme=radical)
+
+<!-- Tarjeta de racha de contribuciones (extra) -->
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=cesarodriguezvelas&theme=radical)
 
 ------------------------------------------------------------------------------------------------------------
 🔗 https://github.com/4GeeksAcademy/FinalProject4Geeks_FlagMe
+
 ------------------------------------------------------------------------------------------------------------
 
 Desarrollo Full Stack completo
