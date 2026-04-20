@@ -12,20 +12,20 @@ Vengo del mundo del diseño gráfico, lo que me permite aportar una visión más
 
 ------------------------------------------------------------------------------------------------------------
 ⚙️ Tecnologías
-🖥️ Front-End
+🖥️ Front-End:
 JavaScript (ES6+)
 React
 HTML5 & CSS3
 Bootstrap
-🔧 Back-End
+🔧 Back-End:
 Python
 Flask
 Node.js
 REST APIs (JWT Auth)
-🗄️ Base de Datos
+🗄️ Base de Datos:
 Supabase
 MySQL
-🚀 DevOps & Tools
+🚀 DevOps & Tools:
 Git & GitHub
 AWS
 📌 Proyecto Destacado
