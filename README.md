@@ -1,16 +1,49 @@
-## Hi there 👋
+👋 Hola, soy César Rodríguez
 
-<!--
-**cesarodriguezvelas/cesarodriguezvelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | JavaScript • React • Python • Flask
+📍 Madrid, España
 
-Here are some ideas to get you started:
+🧠 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy desarrollador Full Stack con experiencia creando aplicaciones web modernas, enfocadas en rendimiento y experiencia de usuario.
+Me especializo en el desarrollo de APIs REST y en la integración eficiente entre front-end y back-end.
+
+Vengo del mundo del diseño gráfico, lo que me permite aportar una visión más completa al desarrollo: no solo funcionalidad, sino también estética y usabilidad.
+
+⚙️ Tecnologías
+🖥️ Front-End
+JavaScript (ES6+)
+React
+HTML5 & CSS3
+Bootstrap
+🔧 Back-End
+Python
+Flask
+Node.js
+REST APIs (JWT Auth)
+🗄️ Base de Datos
+Supabase
+MySQL
+🚀 DevOps & Tools
+Git & GitHub
+AWS
+📌 Proyecto Destacado
+❤️ App de Citas (tipo Tinder)
+
+🔗 https://github.com/4GeeksAcademy/FinalProject4Geeks_FlagMe
+
+Desarrollo Full Stack completo
+API REST con autenticación JWT
+Front-end con React
+Backend con Flask
+Base de datos en Supabase
+💼 Experiencia previa
+
+🎨 Diseñador Gráfico
+He trabajado en branding, edición de video y contenido digital usando herramientas como Photoshop, Illustrator y After Effects.
+
+👉 Esto me da una ventaja en desarrollo: crear productos visualmente atractivos y funcionales.
+
+🌍 Idiomas
+Español: Nativo
+Inglés: Intermedio-Avanzado
